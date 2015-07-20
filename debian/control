@@ -1,0 +1,15 @@
+Source: hello-destructor
+Section: misc
+Priority: optional
+Maintainer: Josue Ortega <josueortega@debian.org.gt>
+Build-Depends: debhelper (>= 9),
+ dpkg-dev (>= 1.18.1)
+Standards-Version: 3.9.6
+Homepage: https://github.com/eribertomota/hello-destructor
+
+Package: hello-destructor
+Architecture: any
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: Terrible program that wants to kill you.
+ Hello-destructor is a program designed to test the technical ability
+ of the future Debian Developers and it wants to kill as well.

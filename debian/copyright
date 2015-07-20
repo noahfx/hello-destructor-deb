@@ -1,0 +1,123 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: hello
+Source: <url://example.com>
+
+Files:     AUTHORS
+           Makefile.am
+           NEWS
+           README.destructor
+           README.md
+           TODO
+           config.h.in
+           configure.ac
+           doc/hello-destructor.8
+           grid.md
+           redo.sh
+           src/funzip.c
+           src/hashes
+           src/hello-destructor.c
+           src/random
+           src/random2
+           src/random3
+           stuff/hello-destructor.8
+           stuff/hello-destructor.header
+           stuff/hello-destructor.txt
+Copyright: 2012-2014 Joao Eriberto Mota Filho])
+           2012-2015 Joao Eriberto Mota Filho <eriberto@eriberto.pro.br>
+           __NO_COPYRIGHT_NOR_LICENSE__
+License:   __UNKNOWN__
+
+Files:     Makefile.in
+           aclocal.m4
+           compile
+           configure
+           depcomp
+           install-sh
+           missing
+Copyright: 1992-2013 Free Software Foundation, Inc.
+           1994 X Consortium
+License:   __AUTO_PERMISSIVE__
+ Auto-generated file under the permissive license.
+
+Files:     INSTALL
+Copyright: 1994-2013 Free Software Foundation, Inc.
+License:   PERMISSIVE
+ Copying and distribution of this file, with or without modification,
+ are permitted in any medium without royalty provided the copyright
+ notice and this notice are preserved.  This file is offered as-is,
+ without warranty of any kind.
+ .
+ Basic Installation
+
+Files:     src/genhash.sh
+Copyright: 2013 John Fritz Hall
+License:   __UNKNOWN__
+ You can use this script under the
+ MIT license.
+
+Files:     stuff/genallman.sh
+Copyright: 2014 Joao Eriberto Mota Filho <eriberto@debian.org>
+License:   __UNKNOWN__
+ You can use this code in the same terms of the BSD-3-clause license or,
+ optionally, in the same terms of the GPL-3 license.
+
+#----------------------------------------------------------------------------
+# binary files (skipped):
+#         src/hello
+#         doc/README.pdf
+
+#----------------------------------------------------------------------------
+# Files marked as NO_LICENSE_TEXT_FOUND may be covered by the following
+# license/copyright files.
+
+#----------------------------------------------------------------------------
+# License file: LICENSE
+ Copyright (c) 2012, Joao Eriberto Mota Filho
+ All rights reserved.
+ .
+ Redistribution and use in source and binary forms, with or without
+ modification, are permitted provided that the following conditions are met:
+ .
+ * Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+ .
+ * Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+ .
+ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+ AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+ IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+ DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+ FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+ DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+ CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+#----------------------------------------------------------------------------
+# License file: COPYING
+ Copyright (c) 2012, Joao Eriberto Mota Filho
+ All rights reserved.
+ .
+ Redistribution and use in source and binary forms, with or without
+ modification, are permitted provided that the following conditions are met:
+ .
+ * Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+ .
+ * Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+ .
+ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+ AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+ IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+ DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+ FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+ DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+ CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
