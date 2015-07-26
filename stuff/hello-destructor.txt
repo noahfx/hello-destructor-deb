@@ -1,0 +1,11 @@
+NAME
+  hello-destructor - the destructor of bad lifes
+DESCRIPTION
+  hello-destructor is bad program that wish kill all people in the world.
+  To execute the program, the user must be courageous.
+
+  hello-destructor is very very terible.
+HOW TO USE
+  Just type 'hello-destructor' at comand line. (the right word is "command", not "comand"; but destructor is sovereign and doesn't follow human rules...)
+AUTHOR
+  Hello Destructor was written by Joao Eriberto Mota Filho <eriberto@eriberto.pro.br>.
