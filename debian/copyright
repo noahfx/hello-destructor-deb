@@ -1,31 +1,16 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: hello
-Source: <url://example.com>
+Upstream-Name: Joao Eriberto Mota Filho
+Upstream-Contact: Joao Eriberto Mota Filho <eriberto@eriberto.pro.br>
+Source: https://github.com/eribertomota/hello-destructor
+Comment: *TODO: repack text dfsg*
 
-Files:     AUTHORS
-           Makefile.am
-           NEWS
-           README.destructor
-           README.md
-           TODO
-           config.h.in
-           configure.ac
-           doc/hello-destructor.8
-           grid.md
-           redo.sh
-           src/funzip.c
-           src/hashes
-           src/hello-destructor.c
-           src/random
-           src/random2
-           src/random3
-           stuff/hello-destructor.8
-           stuff/hello-destructor.header
-           stuff/hello-destructor.txt
-Copyright: 2012-2014 Joao Eriberto Mota Filho])
-           2012-2015 Joao Eriberto Mota Filho <eriberto@eriberto.pro.br>
-           __NO_COPYRIGHT_NOR_LICENSE__
-License:   __UNKNOWN__
+Files: *
+Copyright: 2012-2015 Joao Eriberto Mota Filho <eriberto@eriberto.pro.br>
+License: BSD-2-clause
+
+Files: src/funzip.c
+Copyright:
+License: Public Domain
 
 Files:     Makefile.in
            aclocal.m4
@@ -97,7 +82,7 @@ License:   __UNKNOWN__
  OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 #----------------------------------------------------------------------------
-# License file: COPYING
+License: BSD-2-clause
  Copyright (c) 2012, Joao Eriberto Mota Filho
  All rights reserved.
  .
