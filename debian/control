@@ -12,6 +12,9 @@ Vcs-Git: https://github.com/noahfx/hello-destructor-deb.git
 Package: hello-destructor
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Description: Terrible program that wants to kill you.
- Hello-destructor is a program designed to test the technical ability
- of the future Debian Developers and it wants to kill as well.
+Description: The destructor of bad lifes
+ Terrible program that wants to kill you, hello-destructor is a bad program
+ that wish kill all people in the world.
+ To execute the program, the user must be courageous.
+ hello-destructor is very terrible.
+ hello-destructor is sovereign and doesn't follow human rules.
