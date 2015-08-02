@@ -2,7 +2,12 @@ Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: Joao Eriberto Mota Filho
 Upstream-Contact: Joao Eriberto Mota Filho <eriberto@eriberto.pro.br>
 Source: https://github.com/eribertomota/hello-destructor
-Comment: *TODO: repack text dfsg*
+Comment: The pristine upstream source contains obfuscated and binary files,
+ that are thereby not appropriate for use as source files.
+ This violates DFSG §2.
+ .
+ The ‘debian/repack’ program removes those files to create the Debian
+ upstream source tarball.
 
 Files: *
 Copyright: 2012-2015 Joao Eriberto Mota Filho <eriberto@eriberto.pro.br>
