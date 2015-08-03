@@ -3,7 +3,8 @@ Section: misc
 Priority: optional
 Maintainer: Josue Ortega <josueortega@debian.org.gt>
 Build-Depends: debhelper (>= 9),
- dpkg-dev (>= 1.18.1)
+ dpkg-dev (>= 1.18.1),
+ dh-autoreconf (>= 10)
 Standards-Version: 3.9.6
 Homepage: https://github.com/eribertomota/hello-destructor
 Vcs-Browser: https://github.com/noahfx/hello-destructor-deb
