@@ -13,7 +13,7 @@ Vcs-Git: https://github.com/noahfx/hello-destructor-deb.git
 Package: hello-destructor
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Description: The destructor of bad lifes
+Description: Destructor of bad lifes
  Terrible program that wants to kill you, hello-destructor is a bad program
  that wish kill all people in the world.
  To execute the program, the user must be courageous.
