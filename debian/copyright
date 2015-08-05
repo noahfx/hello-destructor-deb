@@ -79,7 +79,8 @@ Copyright: 2014 Joao Eriberto Mota Filho <eriberto@debian.org>
 License: BSD-3-clause or GPL-3
 
 Files: debian/repack
-Copyright: 2008–2014 Ben Finney <ben+debian@benfinney.id.au>
+Copyright:  2007–2008 Lars Wirzenius <liw@iki.fi>
+            2008–2014 Ben Finney <ben+debian@benfinney.id.au>
 License: BSD-2-clause
 
 Files: debian/*
