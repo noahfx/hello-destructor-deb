@@ -1,0 +1,2 @@
+# Upstream wrote "comand" on purpose
+hello-destructor binary: spelling-error-in-manpage usr/share/man/man8/hello-destructor.8.gz comand command
